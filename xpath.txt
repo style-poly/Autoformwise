@@ -1,0 +1,12 @@
+Locators:
+
+${mobile_num} =		xpath=//input[@placeholder='Mobile Number']
+${first_name} =		css=#firstName
+${last_name} =		css=#lastName
+${email_id} =		css=#userEmail
+${dob} =		css=#dateOfBirthInput
+${subject} =		id=subjectsContainer
+${currentAddress} =	id=currentAddress
+${state} =		xpath=//div[contains(text(),'Select State')]
+${city} =		css=#city
+${submit} =		css=#submit
